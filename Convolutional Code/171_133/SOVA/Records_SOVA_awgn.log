@@ -1,0 +1,128 @@
+(2,1,6) {171,133} Octal convolutional code, soft output Viterbi decoder, AWGN channel
+Minimum Free Distance: 10
+Maximum number of bits of simulation = 1000000
+
+Eb/No     BER
+(2,1,6) {171,133} Octal convolutional code, soft output Viterbi decoder, AWGN channel
+Minimum Free Distance: 10
+Maximum number of bits of simulation = 1000000
+
+Eb/No     BER
+(2,1,6) {171,133} Octal convolutional code, soft output Viterbi decoder, AWGN channel
+Minimum Free Distance: 10
+Maximum number of bits of simulation = 1000000
+
+Eb/No     BER
+(2,1,6) {171,133} Octal convolutional code, soft output Viterbi decoder, AWGN channel
+Minimum Free Distance: 10
+Maximum number of bits of simulation = 500000
+
+Eb/No     BER
+0.000000 1.338667e-01 1.338667e-01
+1.000000 3.920755e-02 3.920755e-02
+2.000000 5.467742e-03 5.467742e-03
+3.000000 2.460000e-04 2.460000e-04
+4.000000 2.000000e-05 2.000000e-05
+5.000000 0.000000e+00 0.000000e+00
+
+Total elapsed time: 220(sec)
+
+(2,1,6) {171,133} Octal convolutional code, soft output Viterbi decoder, AWGN channel
+Minimum Free Distance: 10
+Maximum number of bits of simulation = 1000000
+
+Eb/No     BER
+(2,1,6) {171,133} Octal convolutional code, soft output Viterbi decoder, AWGN channel
+Minimum Free Distance: 10
+Maximum number of bits of simulation = 10000000
+
+Eb/No     BER
+0.000000 1.432857e-01 1.432857e-01
+1.000000 4.163265e-02 4.163265e-02
+2.000000 4.349892e-03 4.349892e-03
+3.000000 3.593974e-04 3.593974e-04
+4.000000 2.060000e-05 2.060000e-05
+5.000000 0.000000e+00 0.000000e+00
+
+Total elapsed time: 665(sec)
+
+(2,1,6) {171,133} Octal convolutional code, soft output Viterbi decoder, AWGN channel
+Minimum Free Distance: 10
+Maximum number of bits of simulation = 100000000
+
+Eb/No     BER
+0.000000 1.472857e-01 1.472857e-01
+1.000000 3.853846e-02 3.853846e-02
+2.000000 4.327586e-03 4.327586e-03
+3.000000 4.018338e-04 4.018338e-04
+4.000000 1.577533e-05 1.577533e-05
+5.000000 2.600000e-07 2.600000e-07
+
+Total elapsed time: 4834(sec)
+
+(2,1,6) {171,133} Octal convolutional code, soft output Viterbi decoder, AWGN channel
+Minimum Free Distance: 10
+Maximum number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 1.532857e-01 1.532857e-01
+1.000000 3.911538e-02 3.911538e-02
+2.000000 6.428115e-03 6.428115e-03
+3.000000 9.420000e-04 9.420000e-04
+4.000000 1.530000e-04 1.530000e-04
+5.000000 2.700000e-05 2.700000e-05
+
+Total elapsed time: 392(sec)
+
+(2,1,6) {171,133} Octal convolutional code, soft output Viterbi decoder, AWGN channel
+Minimum Free Distance: 10
+Maximum number of bits of simulation = 1000000
+
+Eb/No     BER
+(2,1,6) {171,133} Octal convolutional code, soft output Viterbi decoder, AWGN channel
+Minimum Free Distance: 10
+Maximum number of bits of simulation = 1000000
+
+Eb/No     BER
+(2,1,6) {171,133} Octal convolutional code, soft output Viterbi decoder, AWGN channel
+Minimum Free Distance: 10
+Maximum number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 1.725000e-01 1.725000e-01
+1.000000 5.156098e-02 5.156098e-02
+2.000000 9.383178e-03 9.383178e-03
+3.000000 9.720000e-04 9.720000e-04
+4.000000 1.830000e-04 1.830000e-04
+5.000000 4.300000e-05 4.300000e-05
+
+Total elapsed time: 359(sec)
+
+(2,1,6) {171,133} Octal convolutional code, soft output Viterbi decoder, AWGN channel
+Minimum Free Distance: 10
+Maximum number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 1.577390e-01 1.577390e-01
+1.000000 3.797421e-02 3.797421e-02
+2.000000 6.985521e-03 6.985521e-03
+3.000000 8.633603e-04 8.633603e-04
+4.000000 1.720648e-04 1.720648e-04
+5.000000 3.036437e-05 3.036437e-05
+
+Total elapsed time: 376(sec)
+
+(2,1,6) {171,133} Octal convolutional code, soft output Viterbi decoder, AWGN channel
+Minimum Free Distance: 10
+Maximum number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 1.670819e-01 1.670819e-01
+1.000000 3.937820e-02 3.937820e-02
+2.000000 6.239508e-03 6.239508e-03
+3.000000 9.433198e-04 9.433198e-04
+4.000000 1.842105e-04 1.842105e-04
+5.000000 3.846154e-05 3.846154e-05
+
+Total elapsed time: 377(sec)
+

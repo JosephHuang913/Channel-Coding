@@ -1,0 +1,67 @@
+(2,1,2) {5,7} convolutional code, Viterbi decoder, AWGN channel
+number of bits of simulation = 10000000
+
+Eb/No     BER
+-2.000000 3.182504e-01
+-1.000000 2.620946e-01
+0.000000 1.974158e-01
+1.000000 1.298673e-01
+2.000000 7.194950e-02
+3.000000 3.248530e-02
+4.000000 1.145400e-02
+5.000000 3.135200e-03
+6.000000 6.454000e-04
+7.000000 1.021000e-04
+
+Total elapsed time: 6683(sec)
+
+(2,1,2) {5,7} convolutional code, Viterbi decoder, AWGN channel
+number of bits of simulation = 10000000
+
+Eb/No     BER
+-2.000000 3.184042e-01
+-1.000000 2.624758e-01
+0.000000 1.972953e-01
+1.000000 1.297317e-01
+2.000000 7.199350e-02
+3.000000 3.245480e-02
+4.000000 1.148720e-02
+5.000000 3.180200e-03
+6.000000 6.747000e-04
+7.000000 9.830000e-05
+
+Total elapsed time: 6665(sec)
+
+(2,1,2) {5,7} convolutional code, Viterbi decoder, AWGN channel
+number of bits of simulation = 100000000
+
+Eb/No     BER
+(2,1,2) {5,7} convolutional code, Viterbi decoder, AWGN channel
+number of bits of simulation = 10000000
+
+Eb/No     BER
+8.000000 9.800000e-06
+9.000000 1.000000e-07
+(2,1,2) {5,7} convolutional code, Viterbi decoder, AWGN channel
+number of bits of simulation = 100000000
+
+Eb/No     BER
+9.000000 7.800000e-07
+(2,1,2) {5,7} convolutional code, Viterbi decoder, AWGN channel
+number of bits of simulation = 10000000
+
+Eb/No     BER
+0.000000 1.967534e-01
+1.000000 1.298320e-01
+2.000000 7.169990e-02
+3.000000 3.224810e-02
+4.000000 1.130550e-02
+5.000000 3.118800e-03
+6.000000 6.502000e-04
+7.000000 1.015000e-04
+8.000000 9.500000e-06
+9.000000 1.000000e-06
+10.000000 0.000000e+00
+
+Total elapsed time: 33583(sec)
+

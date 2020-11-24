@@ -1,0 +1,21 @@
+close;
+clear;
+
+load ber_Galager_20_4_3.log;
+i=1:1:11;
+semilogy(ber_Galager_20_4_3(i,1), ber_Galager_20_4_3(i,2), '-rs', 'LineWidth', 2.0, 'MarkerSIze', 10);
+hold on;
+semilogy(ber_Galager_20_4_3(i,1), ber_Galager_20_4_3(i,3), '-bo');
+semilogy(ber_Galager_20_4_3(i,1), ber_Galager_20_4_3(i,4), '-g^');
+grid on;
+
+r=0:1:10;
+Pb=0.5.*erfc(sqrt(10.^(r./10)));
+semilogy(r, Pb, '-k',  'LineWidth', 2.0, 'MarkerSIze', 10);
+
+title('BER Performance of Galager (20,4,3) Regular LDPC Code in AWGN Channel');
+xlabel('E_b/N_0 (dB)');
+ylabel('Probability of Bit Error');
+
+legend('Message Passing Algorithm, 1_s_t Iteration', '2_n_d Iteration', '3_r_d Iteration', 'BPSK, AWGN', 'Parity Check Matrix: (20,15)', 'Row Weight: 4', 'Column Weight: 3', 3);
+%print -djpeg100 Galager_awgn.jpg;

@@ -1,0 +1,91 @@
+(2,1,2) {5,7} convolutional code, soft output Viterbi decoder, AWGN channel
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 1.438780e-01
+2.000000 3.535700e-02
+4.000000 4.164000e-03
+6.000000 2.490000e-04
+8.000000 1.200000e-05
+10.000000 1.000000e-06
+
+Total elapsed time: 1466(sec)
+
+(2,1,2) {5,7} convolutional code, soft output Viterbi decoder, AWGN channel
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 1.441410e-01
+1.000000 7.878800e-02
+2.000000 3.572600e-02
+3.000000 1.280000e-02
+4.000000 3.900000e-03
+5.000000 1.009000e-03
+6.000000 2.350000e-04
+7.000000 3.500000e-05
+8.000000 1.100000e-05
+9.000000 0.000000e+00
+10.000000 0.000000e+00
+
+Total elapsed time: 2645(sec)
+(2,1,2) {5,7} convolutional code, soft output Viterbi decoder, AWGN channel
+Minimum Free Distance: 5
+number of bits of simulation = 10000000
+
+Eb/No     BER
+0.000000 9.199020e-02 9.199020e-02
+(2,1,2) {5,7} convolutional code, soft output Viterbi decoder, AWGN channel
+Minimum Free Distance: 5
+number of bits of simulation = 10000000
+
+Eb/No     BER
+(2,1,2) {5,7} convolutional code, soft output Viterbi decoder, AWGN channel
+Minimum Free Distance: 5
+number of bits of simulation = 10000000
+
+Eb/No     BER
+0.000000 9.189710e-02 9.189710e-02
+(2,1,2) {5,7} convolutional code, soft output Viterbi decoder, AWGN channel
+Minimum Free Distance: 5
+number of bits of simulation = 10000000
+
+Eb/No     BER
+0.000000 9.189270e-02 9.189270e-02
+(2,1,2) {5,7} convolutional code, soft output Viterbi decoder, AWGN channel
+Minimum Free Distance: 5
+number of bits of simulation = 10000000
+
+Eb/No     BER
+0.000000 9.186240e-02 9.186240e-02
+1.000000 4.157440e-02 4.157440e-02
+2.000000 1.405840e-02 1.405840e-02
+3.000000 3.479800e-03 3.479800e-03
+4.000000 6.343000e-04 6.343000e-04
+5.000000 8.310000e-05 8.310000e-05
+6.000000 6.300000e-06 6.300000e-06
+7.000000 4.000000e-07 4.000000e-07
+8.000000 0.000000e+00 0.000000e+00
+9.000000 0.000000e+00 0.000000e+00
+10.000000 0.000000e+00 0.000000e+00
+
+Total elapsed time: 20055(sec)
+
+(2,1,2) {5,7} convolutional code, soft output Viterbi decoder, AWGN channel
+Minimum Free Distance: 5
+number of bits of simulation = 10000000
+
+Eb/No     BER
+0.000000 9.188700e-02 9.188700e-02
+1.000000 4.180690e-02 4.180690e-02
+2.000000 1.402760e-02 1.402760e-02
+3.000000 3.585400e-03 3.585400e-03
+4.000000 6.230000e-04 6.230000e-04
+5.000000 8.400000e-05 8.400000e-05
+6.000000 7.500000e-06 7.500000e-06
+7.000000 3.000000e-07 3.000000e-07
+8.000000 0.000000e+00 0.000000e+00
+9.000000 0.000000e+00 0.000000e+00
+10.000000 0.000000e+00 0.000000e+00
+
+Total elapsed time: 362(sec)
+

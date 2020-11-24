@@ -1,0 +1,56 @@
+(2,1,6) {171,133} Octal convolutional code, BCJR decoder, AWGN channel
+Minimum Free Distance: 10
+Maximum number of bits of simulation = 10000000
+
+Eb/No     BER
+0.000000 1.963447e-01
+1.000000 6.720322e-02
+2.000000 7.126676e-03
+3.000000 3.565563e-04
+4.000000 2.102616e-05
+5.000000 1.710262e-06
+
+Total elapsed time: 4567(sec)
+
+(2,1,6) {171,133} Octal convolutional code, BCJR decoder, AWGN channel
+Minimum Free Distance: 10
+Maximum number of bits of simulation = 10000000
+
+Eb/No     BER
+0.000000 2.721328e-01
+1.000000 1.048107e-01
+2.000000 1.625627e-02
+3.000000 6.143593e-04
+4.000000 1.680080e-05
+5.000000 2.012072e-07
+
+Total elapsed time: 697(sec)
+
+(2,1,6) {171,133} Octal convolutional code, BCJR decoder, AWGN channel
+Minimum Free Distance: 10
+Maximum number of bits of simulation = 100000000
+
+Eb/No     BER
+0.000000 2.402414e-01
+1.000000 1.050302e-01
+2.000000 1.667381e-02
+3.000000 6.390464e-04
+4.000000 1.974786e-05
+5.000000 5.030181e-07
+
+Total elapsed time: 4855(sec)
+
+(2,1,6) {171,133} Octal convolutional code, BCJR decoder, AWGN channel
+Minimum Free Distance: 10
+Maximum number of bits of simulation = 100000000
+
+Eb/No     BER
+0.000000 1.898055e-01
+1.000000 5.639392e-02
+2.000000 6.873455e-03
+3.000000 3.432839e-04
+4.000000 1.686451e-05
+5.000000 3.118712e-07
+
+Total elapsed time: 36348(sec)
+

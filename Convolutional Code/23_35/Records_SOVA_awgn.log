@@ -1,0 +1,55 @@
+(2,1,4) {23,35} convolutional code, soft output Viterbi decoder, AWGN channel
+Minimum Free Distance: 7
+Maximum number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 1.025000e-01 1.025000e-01
+1.000000 4.400000e-02 4.400000e-02
+2.000000 8.416667e-03 8.416667e-03
+3.000000 2.295455e-03 2.295455e-03
+4.000000 3.960784e-04 3.960784e-04
+5.000000 5.600000e-05 5.600000e-05
+
+Total elapsed time: 50(sec)
+
+(2,1,4) {23,35} Octal convolutional code, soft output Viterbi decoder, AWGN channel
+Minimum Free Distance: 7
+Maximum number of bits of simulation = 10000000
+
+Eb/No     BER
+0.000000 8.250000e-02 8.250000e-02
+1.000000 5.250000e-02 5.250000e-02
+2.000000 9.818182e-03 9.818182e-03
+3.000000 2.318182e-03 2.318182e-03
+4.000000 4.069767e-04 4.069767e-04
+5.000000 5.699774e-05 5.699774e-05
+
+Total elapsed time: 88(sec)
+
+(2,1,4) {23,35} Octal convolutional code, soft output Viterbi decoder, AWGN channel
+Minimum Free Distance: 7
+Maximum number of bits of simulation = 100000000
+
+Eb/No     BER
+0.000000 1.014545e-01 1.014545e-01
+1.000000 3.722222e-02 3.722222e-02
+2.000000 1.083871e-02 1.083871e-02
+3.000000 2.412048e-03 2.412048e-03
+4.000000 4.524561e-04 4.524561e-04
+5.000000 5.719673e-05 5.719673e-05
+6.000000 4.950000e-06 4.950000e-06
+7.000000 3.100000e-07 3.100000e-07
+8.000000 0.000000e+00 0.000000e+00
+(2,1,4) {23,35} Octal convolutional code, soft output Viterbi decoder, AWGN channel
+Minimum Free Distance: 7
+Maximum number of bits of simulation = 100000000
+
+Eb/No     BER
+0.000000 1.168889e-01 1.168889e-01
+1.000000 5.020000e-02 5.020000e-02
+2.000000 9.776699e-03 9.776699e-03
+3.000000 1.308192e-03 1.308192e-03
+4.000000 1.477992e-04 1.477992e-04
+5.000000 9.290000e-06 9.290000e-06
+6.000000 3.200000e-07 3.200000e-07
+7.000000 1.000000e-08 1.000000e-08

@@ -1,0 +1,88 @@
+(2,1,2) {5,7} convolutional code, MAP decoder, AWGN channel with Eb/N0 = -2.000000 dB
+Average bit error rate = 2.335296e-01
+number of bits of simulation = 10000000
+
+(2,1,2) {5,7} convolutional code, MAP decoder, AWGN channel with Eb/N0 = -1.000000 dB
+Average bit error rate = 1.666348e-01
+number of bits of simulation = 10000000
+
+(2,1,2) {5,7} convolutional code, MAP decoder, AWGN channel with Eb/N0 = 0.000000 dB
+Average bit error rate = 9.908120e-02
+number of bits of simulation = 10000000
+
+(2,1,2) {5,7} convolutional code, MAP decoder, AWGN channel with Eb/N0 = 1.000000 dB
+Average bit error rate = 4.548820e-02
+number of bits of simulation = 10000000
+
+(2,1,2) {5,7} convolutional code, MAP decoder, AWGN channel with Eb/N0 = 2.000000 dB
+Average bit error rate = 1.529770e-02
+number of bits of simulation = 10000000
+
+(2,1,2) {5,7} convolutional code, MAP decoder, AWGN channel with Eb/N0 = 3.000000 dB
+Average bit error rate = 3.654900e-03
+number of bits of simulation = 10000000
+
+(2,1,2) {5,7} convolutional code, MAP decoder, AWGN channel with Eb/N0 = 4.000000 dB
+Average bit error rate = 6.510000e-04
+number of bits of simulation = 10000000
+
+(2,1,2) {5,7} convolutional code, MAP decoder, AWGN channel with Eb/N0 = 5.000000 dB
+Average bit error rate = 8.110000e-05
+number of bits of simulation = 10000000
+
+(2,1,2) {5,7} convolutional code, MAP decoder, AWGN channel with Eb/N0 = 6.000000 dB
+Average bit error rate = 7.600000e-06
+number of bits of simulation = 10000000
+
+(2,1,2) {5,7} convolutional code, MAP decoder, AWGN channel with Eb/N0 = 7.000000 dB
+Average bit error rate = 4.000000e-07
+number of bits of simulation = 10000000
+
+Total elapsed time: 1270(sec)
+
+(2,1,2) {5,7} convolutional code, MAP decoder, AWGN channel with Eb/N0 = 0.000000 dB
+Average bit error rate = 9.907560e-02
+number of bits of simulation = 10000000
+
+(2,1,2) {5,7} convolutional code, MAP decoder, AWGN channel with Eb/N0 = 1.000000 dB
+Average bit error rate = 4.561730e-02
+number of bits of simulation = 10000000
+
+(2,1,2) {5,7} convolutional code, MAP decoder, AWGN channel with Eb/N0 = 2.000000 dB
+Average bit error rate = 1.535060e-02
+number of bits of simulation = 10000000
+
+(2,1,2) {5,7} convolutional code, MAP decoder, AWGN channel with Eb/N0 = 3.000000 dB
+Average bit error rate = 3.671400e-03
+number of bits of simulation = 10000000
+
+(2,1,2) {5,7} convolutional code, MAP decoder, AWGN channel with Eb/N0 = 4.000000 dB
+Average bit error rate = 6.507000e-04
+number of bits of simulation = 10000000
+
+(2,1,2) {5,7} convolutional code, MAP decoder, AWGN channel with Eb/N0 = 5.000000 dB
+Average bit error rate = 8.290000e-05
+number of bits of simulation = 10000000
+
+(2,1,2) {5,7} convolutional code, MAP decoder, AWGN channel with Eb/N0 = 6.000000 dB
+Average bit error rate = 6.300000e-06
+number of bits of simulation = 10000000
+
+(2,1,2) {5,7} convolutional code, MAP decoder, AWGN channel with Eb/N0 = 7.000000 dB
+Average bit error rate = 1.000000e-07
+number of bits of simulation = 10000000
+
+(2,1,2) {5,7} convolutional code, MAP decoder, AWGN channel with Eb/N0 = 8.000000 dB
+Average bit error rate = 0.000000e+00
+number of bits of simulation = 10000000
+
+(2,1,2) {5,7} convolutional code, MAP decoder, AWGN channel with Eb/N0 = 9.000000 dB
+Average bit error rate = 0.000000e+00
+number of bits of simulation = 10000000
+
+(2,1,2) {5,7} convolutional code, MAP decoder, AWGN channel with Eb/N0 = 10.000000 dB
+Average bit error rate = 0.000000e+00
+number of bits of simulation = 10000000
+
+Total elapsed time: 5484(sec)
+

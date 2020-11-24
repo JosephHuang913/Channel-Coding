@@ -1,0 +1,86 @@
+(2,1,2) {5,7} convolutional code, Viterbi decoder, AWGN channel
+number of bits of simulation = 1000000
+
+Eb/No     BER
+-2.000000 2.334820e-01
+-1.000000 1.608360e-01
+0.000000 9.433100e-02
+1.000000 4.226500e-02
+2.000000 1.555800e-02
+3.000000 4.172000e-03
+4.000000 8.740000e-04
+5.000000 1.020000e-04
+6.000000 1.000000e-05
+7.000000 1.000000e-06
+
+Total elapsed time: 1224(sec)
+
+(2,1,2) {5,7} convolutional code, Viterbi decoder, AWGN channel
+number of bits of simulation = 10000000
+
+Eb/No     BER
+-2.000000 2.322735e-01
+-1.000000 1.612789e-01
+0.000000 9.346470e-02
+1.000000 4.374380e-02
+2.000000 1.550920e-02
+3.000000 4.217300e-03
+4.000000 8.901000e-04
+5.000000 1.426000e-04
+6.000000 1.750000e-05
+7.000000 1.200000e-06
+
+Total elapsed time: 6953(sec)
+
+(2,1,2) {5,7} convolutional code, Viterbi decoder, AWGN channel
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 9.178300e-02
+1.000000 4.111200e-02
+2.000000 1.416700e-02
+3.000000 3.410000e-03
+4.000000 6.030000e-04
+5.000000 9.100000e-05
+6.000000 4.000000e-06
+7.000000 3.000000e-06
+(2,1,2) {5,7} convolutional code, Viterbi decoder, AWGN channel
+number of bits of simulation = 10000000
+
+Eb/No     BER
+0.000000 9.231030e-02
+1.000000 4.193590e-02
+2.000000 1.425970e-02
+3.000000 3.608800e-03
+4.000000 6.272000e-04
+5.000000 8.040000e-05
+6.000000 1.000000e-05
+7.000000 5.800000e-07
+8.000000 1.000000e-08
+9.000000 0.000000e+00
+
+(2,1,2) {5,7} convolutional code, Viterbi decoder, AWGN channel
+number of bits of simulation = 100000000
+
+Eb/No     BER
+7.000000 5.800000e-07
+8.000000 1.000000e-08
+9.000000 0.000000e+00
+(2,1,2) {5,7} convolutional code, Viterbi decoder, AWGN channel
+number of bits of simulation = 10000000
+
+Eb/No     BER
+0.000000 9.154630e-02
+1.000000 4.167690e-02
+2.000000 1.423590e-02
+3.000000 3.484600e-03
+4.000000 6.243000e-04
+5.000000 8.260000e-05
+6.000000 7.900000e-06
+7.000000 5.000000e-07
+8.000000 0.000000e+00
+9.000000 0.000000e+00
+10.000000 0.000000e+00
+
+Total elapsed time: 26531(sec)
+
